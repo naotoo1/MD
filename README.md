@@ -7,7 +7,11 @@ MD-Flask ML webapp is used for detecting malaria based on the parasites class an
 The implementation entails the use of prototype-based models(```ImageGLVQ```, ```ImageGMLVQ```, ```ImageGMLVQ warmed with ImageGLVQ```) and a deep learning model built by transfer learning with ```VGG19``` convolutional neural network deployed with respective use for the models, ensemble use for the prototype-based models and ensemble use of prototype-based cum CNN model built with transfer learning.
 
 ## Prototype-based 
-Initialised prototypes for  parasite class and uninfected class after preprocessing transformation
+
+The malaria prototypes were trained with the ```ImageGLVQ```, ```ImageGMLVQ```, ```ImageGMLVQ warmed with ImageGLVQ``` prototype-based models. The prototype initialization was done uniformly on one prototype per class basis. Predictions for each malaria test case is based on the trained protypes displayed below.
+
+
+##### Initialised prototypes for  parasite class and uninfected class after preprocessing transformation
 
 ![download](https://user-images.githubusercontent.com/82911284/175720641-109baf6d-653f-435d-8498-bde91a36ab7a.png)
 
