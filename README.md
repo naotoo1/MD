@@ -28,3 +28,11 @@ Trained Prototypes of parasites class and uninfected class from the ImageGMLVQ m
 
 ![download](https://user-images.githubusercontent.com/82911284/175665202-5df00dda-de61-43dc-8dc9-8162cfa07fcb.png)
 
+
+![image](https://user-images.githubusercontent.com/82911284/175783302-2e9f8078-5bc4-491b-a3a9-fd48774640cc.png)
+
+
+![image](https://user-images.githubusercontent.com/82911284/175783378-e0749503-7559-43af-877e-a9cfd67b389d.png)
+
+
+
