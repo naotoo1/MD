@@ -1,12 +1,12 @@
 # MD-Flask
-End-to-end implementation of Malaria detection using advanced highly-interpretable and robust prototype-based ML models (Image Generalized Learning Vector Quantization and  Image Generalized Matrix Learning Vector Quantization) as well as deep convolutional neural network model built on the transfer learning architecture of InceptionResNetV2 within the streamlit web app, dockerized and deployed on Azure infrastructure as a service cloud.
+End-to-end implementation of Malaria detection using advanced highly-interpretable and robust prototype-based ML models (Image Generalized Learning Vector Quantization and  Image Generalized Matrix Learning Vector Quantization) as well as deep convolutional neural network model built on the transfer learning architecture of InceptionResNetV2.
 
 ## What is it?
-MD-Flask ML web app is a tool for detecting malaria based on the parasites class and uninfected class.
+MD ML is a tool for detecting malaria based on the parasites class and uninfected class.
 
 This project comes in handy for medical professionals who may want to leverage the stupendous capabilities of machine learning in Medical Intelligence Systems.
 
-Expert machine learning practitioners who require a high level of control in terms of interpretability and robustness can call on the prototype-based models here-in utilized respectively for predictions or an ensemble thereof. Users whose work entails non-prototype-based models may opt for the deep CNN ensemble model. Users can also call on the hybrid ensemble of the prototype-based and non-prototype-based models for predictions accordingly.
+Expert machine learning practitioners who require a high level of control in terms of interpretability and robustness can call on the prototype-based models here-in utilized respectively for predictions or an ensemble thereof. Users whose work entails non-prototype-based models may opt for the deep CNN ensemble model. 
 
 
 ## Prototype-based 
@@ -38,9 +38,8 @@ Trained Prototypes of parasites class and uninfected class from the ImageGMLVQ m
 
 ## Non-Prototype-based
 
-A deep convolutional neural network model built on transfer learning with ```InceptionResNetV2``` architecture with some custom adjustments was used to train the malaria data for the parasite and uninfected class with a validation test accuracy of 96.26%
+A deep convolutional neural network model built on transfer learning with ```InceptionResNetV2``` architecture with some custom adjustments was used to train the malaria cell image data for the parasite and uninfected class.
 
-## How to use
 
 
 
