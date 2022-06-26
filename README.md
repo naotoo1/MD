@@ -1,4 +1,4 @@
-# MD-Flask
+# MD ML
 End-to-end implementation of Malaria detection using advanced highly-interpretable and robust prototype-based ML models (Image Generalized Learning Vector Quantization and  Image Generalized Matrix Learning Vector Quantization) as well as deep convolutional neural network model built on the transfer learning architecture of InceptionResNetV2.
 
 ## What is it?
