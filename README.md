@@ -8,6 +8,7 @@ This project comes in handy for medical professionals who may want to leverage t
 
 Expert machine learning practitioners who require a high level of control in terms of interpretability and robustness can call on the prototype-based models here-in utilized respectively for predictions or an ensemble thereof. Users whose work entails non-prototype-based models may opt for the deep CNN ensemble model. Users can also call on the hybrid ensemble of the prototype-based and non-prototype-based models for predictions accordingly.
 
+
 ## Prototype-based 
 
 The malaria prototypes were trained with the ```ImageGLVQ```, ```ImageGMLVQ```, ```ImageGMLVQ warmed with ImageGLVQ``` prototype-based models. The prototype initialization was done uniformly on one prototype per class basis. Predictions for each malaria test case is based on the trained protypes displayed below.
