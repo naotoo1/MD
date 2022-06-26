@@ -1,5 +1,5 @@
 # MD ML
-End-to-end implementation of Malaria detection using advanced highly-interpretable and robust prototype-based ML models (Image Generalized Learning Vector Quantization and  Image Generalized Matrix Learning Vector Quantization) as well as deep convolutional neural network model built on the transfer learning architecture of InceptionResNetV2.
+End-to-end implementation of Malaria detection using advanced highly-interpretable and robust prototype-based ML models (Image Generalized Learning Vector Quantization and  Image Generalized Matrix Learning Vector Quantization) as well as deep convolutional neural network model built on the transfer learning architecture of InceptionResNetV2 with some custom adjustments.
 
 ## What is it?
 MD ML is a tool for detecting malaria based on the parasites class and uninfected class.
