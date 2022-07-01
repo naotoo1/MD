@@ -3,7 +3,7 @@ End-to-end implementation of Malaria detection using advanced highly-interpretab
 
 ## What is it?
 MD ML is a tool for detecting malaria based on the parasites class and uninfected class.
-This project comes in handy for medical professionals who may want to leverage the stupendous capabilities of machine learning in Medical Intelligence Systems.
+
 
 
 ## Prototype-based 
