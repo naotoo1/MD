@@ -5,7 +5,7 @@ End-to-end implementation of Malaria detection using a prior model feature map e
 MD ML Webapp is a tool for detecting malaria based on the parasites class and uninfected class. A case study of malaria image cell classification using a combination of pretrained deep-cnn model + traditional ML models with some prototype-based options.
 
 ## How to use
-python 3.9 or later with all [requirement](https://github.com/naotoo1/MD/blob/main/requirements.txt) dependencies installed including  ```xgboost ``` and  ```opencv ```.
+python 3.9 or later with all [requirements.txt](https://github.com/naotoo1/MD/blob/main/requirements.txt) dependencies installed including  ```xgboost ``` and  ```opencv ```.
 
 ```python
 git clone https://github.com/naotoo1/MD.git
@@ -19,4 +19,4 @@ Download the ```celvq``` and ```svm``` trained models into the ```MD``` folder u
 python app.py
 ```
 
-
+![Untitled design (3)](https://user-images.githubusercontent.com/82911284/184501451-7d3a68af-2308-4b22-b68d-f1ea7a16aa33.png)
