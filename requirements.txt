@@ -41,7 +41,7 @@ opt-einsum==3.3.0
 packaging==21.3
 Pillow==9.1.1
 prosemble==0.0.3
-protobuf==3.19.4
+protobuf==3.19.5
 prototorch==0.7.4
 prototorch-models==0.5.2
 pyasn1==0.4.8
