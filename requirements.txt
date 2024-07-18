@@ -76,4 +76,4 @@ urllib3==1.26.19
 Werkzeug==3.0.3
 wrapt==1.14.1
 yarl==1.7.2
-zipp==3.8.1
+zipp==3.19.1
